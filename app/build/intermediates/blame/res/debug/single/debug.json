@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_content_my_profile.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/content_my_profile.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xxhdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cancel.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_cancel.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_ic_android.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/ic_android.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_content_add_reminder.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/content_add_reminder.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_medicine.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_medicine.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_doctor.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_doctor.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_ab_custom.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/ab_custom.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_medicine.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/medicine.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/menu_menu_pinned_top_tabs.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/menu/menu_pinned_top_tabs.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_menu1.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/menu1.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_activity_my_profile.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/activity_my_profile.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_schedule.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_schedule.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_graph.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/graph.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_doctor.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/doctor.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_tab_call.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_tab_call.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_person_red.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/person_red.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_dialog_datetimepicker_layout.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/dialog_datetimepicker_layout.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_reminder_black.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/reminder_black.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_ic_action_person_name.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/ic_action_person_name.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_tab_contacts.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_tab_contacts.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_call.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-hdpi/ic_tab_call.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_favourite.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-hdpi/ic_tab_favourite.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xxxhdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/menu_menu_add.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/menu/menu_add.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_contacts.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-mdpi/ic_tab_contacts.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_check.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_check.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_favourite.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-mdpi/ic_tab_favourite.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_tab_contacts.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-hdpi/ic_tab_contacts.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/menu_menu_edit.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/menu/menu_edit.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_entries.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/entries.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_food_exercise.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_food_exercise.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-hdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_graph_black.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/graph_black.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_entries.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_entries.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_entries_black.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/entries_black.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_add_new.jpg.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/add_new.jpg"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_tab_favourite.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_tab_favourite.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xxxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_medicine_log.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_medicine_log.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_row_medicine_record.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/row_medicine_record.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher1_round.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-anydpi-v26/ic_launcher1_round.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_profile_white.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/profile_white.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_activity_add_doctor.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/activity_add_doctor.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_exercisse.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/exercisse.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/raw_nhacchuong.mp3.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/raw/nhacchuong.mp3"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-hdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_sliding_layout.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_sliding_layout.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_laucher.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_laucher.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_tab_call.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-mdpi/ic_tab_call.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_summary.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/summary.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher1.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-anydpi-v26/ic_launcher1.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_content_add_doctor.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/content_add_doctor.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_graph.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_graph.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_reminder_white.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/reminder_white.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_tab_contacts.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xhdpi/ic_tab_contacts.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable_notifaction.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable/notifaction.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_main_activity.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_activity_add_reminder.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/activity_add_reminder.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_activity_add_appointment.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/activity_add_appointment.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_tab_favourite.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xhdpi/ic_tab_favourite.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_content_add_appointment.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/content_add_appointment.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_save.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_tab_call.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xhdpi/ic_tab_call.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_summary.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_summary.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_row_doctor.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/row_doctor.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_fragment_entries_options.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/fragment_entries_options.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/layout_row_diabetes_record.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/layout/row_diabetes_record.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/menu_menu_icon_text_tabs.xml.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/menu/menu_icon_text_tabs.xml"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-xhdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/tainguyen/Desktop/New Print/app/src/main/res/mipmap-mdpi/ic_launcher1_round.png"
+    }
+]
