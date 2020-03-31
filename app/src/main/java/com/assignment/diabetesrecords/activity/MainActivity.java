@@ -355,5 +355,16 @@ public class MainActivity extends AppCompatActivity implements
 
 
 
+    public void callEntryTab()
+    {
 
+        tabLayout.getTabAt(1).select();
+
+    }
+
+    public void callMedicineTab()
+    {
+
+        tabLayout.getTabAt(3).select();
+    }
 }

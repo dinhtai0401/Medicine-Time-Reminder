@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h330dp-v13/values-h330dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/res/values-h330dp/values-h330dp.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "216,286",
+                        "endColumns": "69,56",
+                        "endOffsets": "281,338"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,125",
+                        "endColumns": "69,56",
+                        "endOffsets": "120,177"
+                    }
+                }
+            ]
+        }
+    ]
+}
