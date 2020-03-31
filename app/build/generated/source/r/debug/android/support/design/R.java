@@ -903,9 +903,9 @@ public final class R {
         public static final int cancel_button_image_alpha = 0x7f0a0004;
         public static final int config_tooltipAnimTime = 0x7f0a0005;
         public static final int design_snackbar_text_max_lines = 0x7f0a0006;
-        public static final int hide_password_duration = 0x7f0a0007;
-        public static final int show_password_duration = 0x7f0a0008;
-        public static final int status_bar_notification_info_maxnum = 0x7f0a0009;
+        public static final int hide_password_duration = 0x7f0a0008;
+        public static final int show_password_duration = 0x7f0a0009;
+        public static final int status_bar_notification_info_maxnum = 0x7f0a000a;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item = 0x7f0b0001;
@@ -1002,13 +1002,13 @@ public final class R {
         public static final int appbar_scrolling_view_behavior = 0x7f0f0024;
         public static final int bottom_sheet_behavior = 0x7f0f0025;
         public static final int character_counter_pattern = 0x7f0f0027;
-        public static final int password_toggle_content_description = 0x7f0f0056;
-        public static final int path_password_eye = 0x7f0f0057;
-        public static final int path_password_eye_mask_strike_through = 0x7f0f0058;
-        public static final int path_password_eye_mask_visible = 0x7f0f0059;
-        public static final int path_password_strike_through = 0x7f0f005a;
-        public static final int search_menu_title = 0x7f0f005c;
-        public static final int status_bar_notification_info_overflow = 0x7f0f0060;
+        public static final int password_toggle_content_description = 0x7f0f0057;
+        public static final int path_password_eye = 0x7f0f0058;
+        public static final int path_password_eye_mask_strike_through = 0x7f0f0059;
+        public static final int path_password_eye_mask_visible = 0x7f0f005a;
+        public static final int path_password_strike_through = 0x7f0f005b;
+        public static final int search_menu_title = 0x7f0f005d;
+        public static final int status_bar_notification_info_overflow = 0x7f0f0061;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat = 0x7f100000;

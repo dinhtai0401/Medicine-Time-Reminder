@@ -29,4 +29,5 @@ dependencies {
     implementation 'com.wdullaer:materialdatetimepicker:2.2.0'
     implementation 'com.jjoe64:graphview:4.2.1'
     implementation 'com.android.support:recyclerview-v7:27.1.1'
+    implementation 'com.google.firebase:firebase-database:11.8.0'
 }
