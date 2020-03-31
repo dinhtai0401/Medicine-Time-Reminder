@@ -13,8 +13,7 @@ import com.assignment.diabetesrecords.R;
 
 public class FoodExerciseFragment extends Fragment{
 
-    Button bFood, bExercise;
-    TextView tvFood, tvExercise;
+
 
     public FoodExerciseFragment() {
         // Required empty public constructor
