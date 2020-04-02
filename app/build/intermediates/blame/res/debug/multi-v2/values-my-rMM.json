@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tainguyen/Desktop/HealthCare/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml",
+            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
             "map": [
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-2.2.0.aar/189dd9902b3fb92c37398dde098006a8/res/values-my-rMM/values-my-rMM.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\429b6dcf3db3d0f2d88d038763a07a94\\res\\values-my-rMM\\values-my-rMM.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
