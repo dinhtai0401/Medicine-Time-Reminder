@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tainguyen/Desktop/HealthCare/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
             "map": [
                 {
-                    "source": "/Users/tainguyen/Desktop/HealthCare/app/src/main/res/values-ta/strings.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "54",
-                        "endOffsets": "105"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1877",
-                        "endColumns": "54",
-                        "endOffsets": "1927"
-                    }
-                },
-                {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/83742b9c06d7da06193babb7860a8328/res/values-ta/values-ta.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32052cba502bffb594003ab7f0a61562\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f45639c9da8c18baa9dd1f37335f7c06/res/values-ta/values.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\04ccd371672ea6f8644fb2732cdd5e92\\res\\values-ta\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ffd93b092777ead7e605ecbeb01ef5c6/res/values-ta/values-ta.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2691ac0dd889cefc6b83326842eb1f4d\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -69,6 +52,23 @@
                         "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,2157",
                         "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
                         "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,2232"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\src\\main\\res\\values-ta\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1877",
+                        "endColumns": "54",
+                        "endOffsets": "1927"
                     }
                 }
             ]

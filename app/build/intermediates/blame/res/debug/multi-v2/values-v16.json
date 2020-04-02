@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tainguyen/Desktop/HealthCare/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-2.2.0.aar/189dd9902b3fb92c37398dde098006a8/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\429b6dcf3db3d0f2d88d038763a07a94\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "4,7,10,13",
                         "startColumns": "4,4,4,4",
@@ -23,17 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/83742b9c06d7da06193babb7860a8328/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ffd93b092777ead7e605ecbeb01ef5c6/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2691ac0dd889cefc6b83326842eb1f4d\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -49,6 +39,16 @@
                         "endLines": "7",
                         "endColumns": "12",
                         "endOffsets": "387"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32052cba502bffb594003ab7f0a61562\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

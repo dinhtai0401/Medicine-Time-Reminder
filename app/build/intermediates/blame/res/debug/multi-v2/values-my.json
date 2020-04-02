@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tainguyen/Desktop/HealthCare/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml",
+            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
             "map": [
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ffd93b092777ead7e605ecbeb01ef5c6/res/values-my/values-my.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,1956",
-                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
-                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2035"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,2169",
-                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
-                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2248"
-                    }
-                },
-                {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/83742b9c06d7da06193babb7860a8328/res/values-my/values-my.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32052cba502bffb594003ab7f0a61562\\res\\values-my\\values-my.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f45639c9da8c18baa9dd1f37335f7c06/res/values-my/values.xml",
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\04ccd371672ea6f8644fb2732cdd5e92\\res\\values-my\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -52,6 +35,23 @@
                         "startOffsets": "1956",
                         "endColumns": "212",
                         "endOffsets": "2164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2691ac0dd889cefc6b83326842eb1f4d\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,1956",
+                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
+                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2035"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,319,436,529,641,769,847,926,1012,1135,1247,1349,1475,1586,1696,1856,2169",
+                        "endColumns": "108,104,116,92,111,127,77,78,85,122,111,101,125,110,109,159,99,83",
+                        "endOffsets": "209,314,431,524,636,764,842,921,1007,1130,1242,1344,1470,1581,1691,1851,1951,2248"
                     }
                 }
             ]
