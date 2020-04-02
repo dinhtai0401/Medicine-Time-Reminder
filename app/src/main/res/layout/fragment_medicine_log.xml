@@ -111,23 +111,23 @@
                 android:text="Medicine log"
                 android:textSize="30sp"
                 android:textStyle="bold" />
+
             <ImageView
                 android:id="@+id/ivCallMedicineTab"
                 android:layout_width="0dp"
-                android:layout_weight=".3"
                 android:layout_height="50dp"
-                android:src="@drawable/add_new"
-                />
+                android:layout_weight=".3"
+                android:src="@drawable/add_new" />
         </LinearLayout>
 
 
         <android.support.v7.widget.RecyclerView
-            xmlns:tools="http://schemas.android.com/tools"
 
             android:id="@+id/list_medicine"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="0dp"
+            android:background="#00BCD4"
             android:choiceMode="none"
             android:clickable="false"
             android:fadingEdge="none"
@@ -136,9 +136,9 @@
             android:listSelector="@android:color/transparent"
             android:scrollbars="vertical"
             android:scrollingCache="false"
-            android:smoothScrollbar="true"
 
-            />
+            android:smoothScrollbar="true" />
 
     </LinearLayout>
+
 </RelativeLayout>
