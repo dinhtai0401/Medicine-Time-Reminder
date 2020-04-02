@@ -1,10 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tainguyen/Desktop/New Print/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "outputFile": "/Users/tainguyen/Desktop/HealthCare/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
             "map": [
                 {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-2/files-2.1/25f768d193c32cb3748b68e09e03bc81/support-compat-27.1.1/res/values-az/values-az.xml",
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f45639c9da8c18baa9dd1f37335f7c06/res/values-az/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "220",
+                        "endOffsets": "503"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1875",
+                        "endColumns": "220",
+                        "endOffsets": "2091"
+                    }
+                },
+                {
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ffd93b092777ead7e605ecbeb01ef5c6/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,312,424,512,619,733,814,893,978,1085,1192,1292,1401,1505,1615,1773,1875",
+                        "endColumns": "107,98,111,87,106,113,80,78,84,106,106,99,108,103,109,157,101,82",
+                        "endOffsets": "208,307,419,507,614,728,809,888,973,1080,1187,1287,1396,1500,1610,1768,1870,1953"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,312,424,512,619,733,814,893,978,1085,1192,1292,1401,1505,1615,1773,2096",
+                        "endColumns": "107,98,111,87,106,113,80,78,84,106,106,99,108,103,109,157,101,82",
+                        "endOffsets": "208,307,419,507,614,728,809,888,973,1080,1187,1287,1396,1500,1610,1768,1870,2174"
+                    }
+                },
+                {
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/83742b9c06d7da06193babb7860a8328/res/values-az/values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -13,21 +47,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "20",
+                        "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "1958",
+                        "startOffsets": "2179",
                         "endColumns": "100",
-                        "endOffsets": "2054"
-                    }
-                },
-                {
-                    "source": "/Users/tainguyen/.gradle/caches/transforms-2/files-2.1/4a886c807e8edea08ea5abca46aae16c/appcompat-v7-27.1.1/res/values-az/values-az.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,312,424,512,619,733,814,893,978,1085,1192,1292,1401,1505,1615,1773,1875",
-                        "endColumns": "107,98,111,87,106,113,80,78,84,106,106,99,108,103,109,157,101,82",
-                        "endOffsets": "208,307,419,507,614,728,809,888,973,1080,1187,1287,1396,1500,1610,1768,1870,1953"
+                        "endOffsets": "2275"
                     }
                 }
             ]
