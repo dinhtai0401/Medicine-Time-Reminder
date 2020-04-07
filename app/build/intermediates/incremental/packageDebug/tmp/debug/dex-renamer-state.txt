@@ -1,4 +1,7 @@
-#Tue Mar 31 22:59:14 EEST 2020
-base.0=/Users/tainguyen/Desktop/HealthCare/app/build/intermediates/transforms/dexMerger/debug/0
+#Sat Apr 04 04:01:02 EEST 2020
+base.0=/Users/tainguyen/Desktop/New Thing/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=/Users/tainguyen/Desktop/New Thing/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

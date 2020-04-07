@@ -96,6 +96,13 @@ attr buttonStyle
 attr buttonStyleSmall
 attr buttonTint
 attr buttonTintMode
+attr cardBackgroundColor
+attr cardCornerRadius
+attr cardElevation
+attr cardMaxElevation
+attr cardPreventCornerOverlap
+attr cardUseCompatPadding
+attr cardViewStyle
 attr checkboxStyle
 attr checkedTextViewStyle
 attr closeIcon
@@ -123,6 +130,11 @@ attr contentInsetLeft
 attr contentInsetRight
 attr contentInsetStart
 attr contentInsetStartWithNavigation
+attr contentPadding
+attr contentPaddingBottom
+attr contentPaddingLeft
+attr contentPaddingRight
+attr contentPaddingTop
 attr contentScrim
 attr controlBackground
 attr coordinatorLayoutStyle
@@ -419,6 +431,10 @@ color bright_foreground_material_dark
 color bright_foreground_material_light
 color button_material_dark
 color button_material_light
+color cardview_dark_background
+color cardview_light_background
+color cardview_shadow_end_color
+color cardview_shadow_start_color
 color colorAccent
 color colorPrimary
 color colorPrimaryDark
@@ -604,6 +620,9 @@ dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen activity_horizontal_margin
 dimen activity_vertical_margin
+dimen cardview_compat_inset_shadow
+dimen cardview_default_elevation
+dimen cardview_default_radius
 dimen compat_button_inset_horizontal_material
 dimen compat_button_inset_vertical_material
 dimen compat_button_padding_horizontal_material
@@ -830,6 +849,7 @@ drawable entries_black
 drawable exercisse
 drawable graph
 drawable graph_black
+drawable ic_action_notification_off
 drawable ic_action_person_name
 drawable ic_add
 drawable ic_android
@@ -865,6 +885,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable person_red
+drawable previuos
 drawable profile_white
 drawable reminder_black
 drawable reminder_white
@@ -873,9 +894,11 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
 id CTRL
+id Delete
+id Delete_Medicine
+id EventsRV
 id FRAGMENT_PLACEHOLDER
 id FUNCTION
-id LLButtons
 id LLContainer
 id LLDoctorListContainer
 id LLGlocuse
@@ -915,7 +938,11 @@ id action_settings
 id action_text
 id actions
 id activity_chooser_view_content
+id activity_custom_calndar
 id add
+id addevent
+id alarmme
+id alarmmeBtn
 id alertTitle
 id all
 id always
@@ -927,8 +954,6 @@ id auto
 id bAddAnother
 id bAddDoctor
 id bAppointment
-id bExercise
-id bFood
 id bGlucoseEntry
 id bGlucoseEntry1
 id bMedicineEntry
@@ -938,8 +963,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
-id button_cancel
-id button_timepicker
+id calendar_day
 id cancel
 id cancel_action
 id center
@@ -954,6 +978,7 @@ id collapseActionView
 id container
 id contentPanel
 id coordinator
+id current_Date
 id custom
 id customPanel
 id date
@@ -967,6 +992,9 @@ id dateet
 id day_picker_selected_date_layout
 id decor_content_parent
 id default_activity_button
+id delete
+id deleteAllTasksButton
+id deleteDoctor
 id description
 id design_bottom_sheet
 id design_menu_item_action_area
@@ -988,6 +1016,12 @@ id etInsulineInformation
 id etNote
 id etReading
 id etTitle
+id eventName
+id eventTime
+id eventdate
+id eventname
+id events_id
+id eventtime
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -1001,12 +1035,15 @@ id forever
 id gender
 id ghost_view
 id graph
+id gridview
 id home
 id homeAsUp
 id hour_space
 id hours
 id icon
 id icon_group
+id id_custom_calendar_view
+id id_data
 id ifRoom
 id image
 id info
@@ -1017,7 +1054,6 @@ id itemlist
 id ivCallEntryTab
 id ivCallMedicineTab
 id ivMenuIcon
-id ivProfile
 id largeLabel
 id lastname
 id lastnameet
@@ -1027,6 +1063,7 @@ id line1
 id line3
 id listMode
 id listUsers
+id listView
 id list_item
 id list_medicine
 id login
@@ -1050,6 +1087,8 @@ id name
 id nameet
 id navigation_header_container
 id never
+id newTaskButton
+id nextBtn
 id none
 id normal
 id note
@@ -1063,6 +1102,7 @@ id parent_matrix
 id phone
 id phoneet
 id pin
+id previousBtn
 id progress_circular
 id progress_horizontal
 id radio
@@ -1097,6 +1137,7 @@ id seconds_space
 id select_dialog_listview
 id separator
 id separator_seconds
+id seteventtime
 id shortcut
 id showCustom
 id showHome
@@ -1118,11 +1159,11 @@ id submit_area
 id tabMode
 id tabs
 id tag_transition_group
+id task
 id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
-id textView
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1149,8 +1190,6 @@ id tvDate
 id tvDescription
 id tvDoctorId
 id tvEmail
-id tvExercise
-id tvFood
 id tvMedicineTaken
 id tvName
 id tvPhone
@@ -1177,6 +1216,7 @@ integer bottom_sheet_slide_duration
 integer cancel_button_image_alpha
 integer config_tooltipAnimTime
 integer design_snackbar_text_max_lines
+integer google_play_services_version
 integer hide_password_duration
 integer show_password_duration
 integer status_bar_notification_info_maxnum
@@ -1212,6 +1252,8 @@ layout activity_add_appointment
 layout activity_add_doctor
 layout activity_add_reminder
 layout activity_my_profile
+layout add_newevent_layout
+layout calendar_layout
 layout content_add_appointment
 layout content_add_doctor
 layout content_add_reminder
@@ -1240,6 +1282,7 @@ layout fragment_medicine
 layout fragment_medicine_log
 layout fragment_sliding_layout
 layout fragment_summary
+layout item
 layout main_activity
 layout mdtp_date_picker_dialog
 layout mdtp_date_picker_header_view
@@ -1271,16 +1314,23 @@ layout row_medicine_record
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout show_events_layout
+layout show_events_rowlayout
+layout single_cell_layout
 layout support_simple_spinner_dropdown_item
 menu menu_add
 menu menu_edit
 menu menu_icon_text_tabs
 menu menu_main
 menu menu_pinned_top_tabs
+mipmap fast
 mipmap ic_launcher
 mipmap ic_launcher1
 mipmap ic_launcher1_round
 mipmap ic_launcher_foreground
+mipmap pre1
+mipmap pre2
+mipmap rewind
 raw nhacchuong
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -1322,6 +1372,7 @@ string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string cancel
 string character_counter_pattern
+string common_google_play_services_unknown_issue
 string content
 string date
 string delete
@@ -1399,6 +1450,7 @@ style Base_AlertDialog_AppCompat_Light
 style Base_Animation_AppCompat_Dialog
 style Base_Animation_AppCompat_DropDownUp
 style Base_Animation_AppCompat_Tooltip
+style Base_CardView
 style Base_DialogWindowTitle_AppCompat
 style Base_DialogWindowTitleBackground_AppCompat
 style Base_TextAppearance_AppCompat
@@ -1552,6 +1604,9 @@ style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
 style Base_Widget_Design_AppBarLayout
 style Base_Widget_Design_TabLayout
+style CardView
+style CardView_Dark
+style CardView_Light
 style MyMaterialTheme
 style MyMaterialTheme_AppBarOverlay
 style MyMaterialTheme_Base
@@ -1796,6 +1851,7 @@ styleable AppCompatTheme android_windowIsFloating android_windowAnimationStyle a
 styleable BottomNavigationView elevation itemBackground itemIconTint itemTextColor menu
 styleable BottomSheetBehavior_Layout behavior_hideable behavior_peekHeight behavior_skipCollapsed
 styleable ButtonBarLayout allowStacking
+styleable CardView android_minWidth android_minHeight cardBackgroundColor cardCornerRadius cardElevation cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding contentPadding contentPaddingBottom contentPaddingLeft contentPaddingRight contentPaddingTop
 styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
 styleable ColorStateListItem android_color android_alpha alpha
