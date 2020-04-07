@@ -49,7 +49,7 @@
                 android:layout_height="50dp"
                 android:id="@+id/alarmmeBtn"
                 android:layout_gravity="center"
-                android:background="@drawable/ic_cancel"
+                android:src="@drawable/notification_off"
                 android:layout_marginTop="10dp"/>
 
 

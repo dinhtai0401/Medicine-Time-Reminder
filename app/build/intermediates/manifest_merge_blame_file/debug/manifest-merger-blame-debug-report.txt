@@ -21,7 +21,7 @@
 13-->[com.wdullaer:materialdatetimepicker:2.2.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/AndroidManifest.xml:26:22-63
 14
 15    <application
-15-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:10:5-49:19
+15-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:10:5-52:19
 16        android:allowBackup="true"
 16-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:11:9-35
 17        android:debuggable="true"
@@ -85,16 +85,15 @@
 48            android:theme="@style/MyMaterialTheme" />
 48-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:44:13-51
 49
-50        <receiver android:name="com.assignment.diabetesrecords.modules.add_reminder.AlertReceiver" />
-50-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:9-71
-50-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:19-69
-51
-52        <service
-52-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:47:9-48:37
-53            android:name="com.assignment.diabetesrecords.modules.add_reminder.Music"
-53-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:47:18-60
-54            android:enabled="true" />
-54-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:48:13-35
+50        <receiver
+50-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:9-50:20
+51            android:name="com.assignment.diabetesrecords.modules.add_reminder.AlarmReceiver"
+51-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:19-69
+52            android:enabled="true"
+52-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:48:13-35
+53            android:exported="true" >
+53-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:47:13-36
+54        </receiver>
 55
 56        <provider
 56-->[com.google.firebase:firebase-common:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/916b9a69ed03cc83d459cdb7d80e5078/firebase-common-11.8.0/AndroidManifest.xml:8:9-12:39
