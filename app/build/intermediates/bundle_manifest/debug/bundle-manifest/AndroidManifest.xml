@@ -47,11 +47,11 @@
             android:label="@string/title_activity_add_reminder"
             android:theme="@style/MyMaterialTheme" />
 
-        <receiver android:name="com.assignment.diabetesrecords.modules.add_reminder.AlertReceiver" />
-
-        <service
-            android:name="com.assignment.diabetesrecords.modules.add_reminder.Music"
-            android:enabled="true" />
+        <receiver
+            android:name="com.assignment.diabetesrecords.modules.add_reminder.AlarmReceiver"
+            android:enabled="true"
+            android:exported="true" >
+        </receiver>
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"

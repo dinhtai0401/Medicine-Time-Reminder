@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
-INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
-INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
-INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
+ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
 MERGED from [com.android.support:design:27.1.1] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/8a05ba3346a75a1e1cef8a02778ffb94/design-27.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/4a886c807e8edea08ea5abca46aae16c/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.wdullaer:materialdatetimepicker:2.2.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/AndroidManifest.xml:17:1-30:12
@@ -33,20 +33,20 @@ MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /User
 MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/02a690c336ba8a6717dc463148411c4b/firebase-common-license-11.8.0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/aea2a3c0b4e501335af9f9471cf769fb/play-services-tasks-license-11.8.0/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/0bba5566df70173770edc14814cfa611/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
-INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
-INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
 	package
 		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:3:5-45
 		INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
+		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
 		INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-51:12
+		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:1-54:12
 		INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:2:11-69
@@ -59,7 +59,7 @@ ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:7
 	android:name
 		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:7:22-70
 application
-ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:10:5-49:19
+ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:10:5-52:19
 MERGED from [com.wdullaer:materialdatetimepicker:2.2.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/AndroidManifest.xml:28:5-20
 MERGED from [com.wdullaer:materialdatetimepicker:2.2.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/AndroidManifest.xml:28:5-20
 MERGED from [com.jjoe64:graphview:4.2.1] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/1b7e306134fe6c6cf2a67de29caf8a8c/graphview-4.2.1/AndroidManifest.xml:11:5-12:19
@@ -138,16 +138,14 @@ ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:4
 		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:44:13-51
 	android:name
 		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:42:13-65
-receiver#com.assignment.diabetesrecords.modules.add_reminder.AlertReceiver
-ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:9-71
-	android:name
-		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:19-69
-service#com.assignment.diabetesrecords.modules.add_reminder.Music
-ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:47:9-48:37
+receiver#com.assignment.diabetesrecords.modules.add_reminder.AlarmReceiver
+ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:9-50:20
 	android:enabled
 		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:47:13-36
 	android:name
-		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:47:18-60
+		ADDED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:19-69
 uses-sdk
 INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml

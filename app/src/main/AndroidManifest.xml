@@ -43,9 +43,12 @@
             android:label="@string/title_activity_add_reminder"
             android:theme="@style/MyMaterialTheme" />
 
-        <receiver android:name=".modules.add_reminder.AlertReceiver"/>
-        <service android:name=".modules.add_reminder.Music"
-            android:enabled="true"/>
+        <receiver android:name=".modules.add_reminder.AlarmReceiver"
+            android:exported="true"
+            android:enabled="true">
+
+        </receiver>
+
     </application>
 
 </manifest>
