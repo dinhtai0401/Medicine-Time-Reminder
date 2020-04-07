@@ -129,6 +129,25 @@
         </LinearLayout>
 
 
+        <android.support.v7.widget.RecyclerView
+            xmlns:tools="http://schemas.android.com/tools"
+
+            android:id="@+id/list_medicine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:choiceMode="none"
+            android:clickable="false"
+            android:fadingEdge="none"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:listSelector="@android:color/transparent"
+            android:scrollbars="vertical"
+            android:scrollingCache="false"
+            android:smoothScrollbar="true"
+
+            />
+
     </LinearLayout>
     <LinearLayout
 
