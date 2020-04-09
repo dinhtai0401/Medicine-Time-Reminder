@@ -21,6 +21,7 @@
         <item>After Lunch</item>
         <item>Before Dinner</item>
         <item>After Dinner</item>
+        <item>Night Time</item>
     </string-array>
 
     <string name="action_add">Add</string>
