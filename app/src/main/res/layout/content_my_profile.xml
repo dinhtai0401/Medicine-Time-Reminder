@@ -44,7 +44,10 @@
                     android:singleLine="true"
                     android:text="Default Profile"
 
-                    android:textAppearance="?android:textAppearanceSmall" />
+                    android:textAlignment="textEnd"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:textColor="#3F51B5"
+                    android:textStyle="bold" />
 
             </android.support.design.widget.TextInputLayout>
         </LinearLayout>
@@ -158,35 +161,6 @@
 
 
         </LinearLayout>
-
-
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginTop="10dp"
-            >
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Type : "
-                />
-
-            <Spinner
-                android:id="@+id/type"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:entries="@array/type_arrays"
-                ></Spinner>
-
-
-        </LinearLayout>
-
-
-
-
 
 
     </LinearLayout>
