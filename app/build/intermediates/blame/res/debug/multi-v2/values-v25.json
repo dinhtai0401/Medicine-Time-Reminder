@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "outputFile": "C:\\Users\\Admin\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2691ac0dd889cefc6b83326842eb1f4d\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5ac28c5d0fb7e360939d355ff5380899\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

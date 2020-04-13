@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+            "outputFile": "C:\\Users\\Admin\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\429b6dcf3db3d0f2d88d038763a07a94\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "263,324,431,544,624,730,847,958,1050,1135,1225,1310",
-                        "endColumns": "60,106,112,79,105,116,110,91,84,89,84,94",
-                        "endOffsets": "319,426,539,619,725,842,953,1045,1130,1220,1305,1400"
-                    },
-                    "to": {
-                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2028,2089,2196,2309,2389,2495,2612,2723,2815,2900,2990,3075",
-                        "endColumns": "60,106,112,79,105,116,110,91,84,89,84,94",
-                        "endOffsets": "2084,2191,2304,2384,2490,2607,2718,2810,2895,2985,3070,3165"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\04ccd371672ea6f8644fb2732cdd5e92\\res\\values-af\\values.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\378bdf882cbd3f65c632d709cfdd78dd\\res\\values-af\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32052cba502bffb594003ab7f0a61562\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3250",
-                        "endColumns": "100",
-                        "endOffsets": "3346"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2691ac0dd889cefc6b83326842eb1f4d\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5ac28c5d0fb7e360939d355ff5380899\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -69,6 +35,40 @@
                         "startOffsets": "105,209,309,415,500,603,721,797,874,955,1062,1165,1262,1370,1472,1574,1728,3170",
                         "endColumns": "103,99,105,84,102,117,75,76,80,106,102,96,107,101,101,153,97,79",
                         "endOffsets": "204,304,410,495,598,716,792,869,950,1057,1160,1257,1365,1467,1569,1723,1821,3245"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\08508980370c33f7fe3c18d197926db6\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "263,324,431,544,624,730,847,958,1050,1135,1225,1310",
+                        "endColumns": "60,106,112,79,105,116,110,91,84,89,84,94",
+                        "endOffsets": "319,426,539,619,725,842,953,1045,1130,1220,1305,1400"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2028,2089,2196,2309,2389,2495,2612,2723,2815,2900,2990,3075",
+                        "endColumns": "60,106,112,79,105,116,110,91,84,89,84,94",
+                        "endOffsets": "2084,2191,2304,2384,2490,2607,2718,2810,2895,2985,3070,3165"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\59431b2683425c903b5739eef04c08da\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3250",
+                        "endColumns": "100",
+                        "endOffsets": "3346"
                     }
                 }
             ]

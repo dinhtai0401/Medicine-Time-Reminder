@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
+            "outputFile": "C:\\Users\\Admin\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\429b6dcf3db3d0f2d88d038763a07a94\\res\\values-el\\values-el.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\08508980370c33f7fe3c18d197926db6\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\04ccd371672ea6f8644fb2732cdd5e92\\res\\values-el\\values.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\378bdf882cbd3f65c632d709cfdd78dd\\res\\values-el\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32052cba502bffb594003ab7f0a61562\\res\\values-el\\values-el.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3437",
-                        "endColumns": "100",
-                        "endOffsets": "3533"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2691ac0dd889cefc6b83326842eb1f4d\\res\\values-el\\values-el.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5ac28c5d0fb7e360939d355ff5380899\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -69,6 +52,23 @@
                         "startOffsets": "105,223,334,451,536,641,767,855,941,1026,1137,1247,1349,1460,1569,1677,1837,3352",
                         "endColumns": "117,110,116,84,104,125,87,85,84,110,109,101,110,108,107,159,99,84",
                         "endOffsets": "218,329,446,531,636,762,850,936,1021,1132,1242,1344,1455,1564,1672,1832,1932,3432"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\59431b2683425c903b5739eef04c08da\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3437",
+                        "endColumns": "100",
+                        "endOffsets": "3533"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\minsi\\Desktop\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "outputFile": "C:\\Users\\Admin\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\04ccd371672ea6f8644fb2732cdd5e92\\res\\values-en-rGB\\values.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\378bdf882cbd3f65c632d709cfdd78dd\\res\\values-en-rGB\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\429b6dcf3db3d0f2d88d038763a07a94\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.2.0.aar\\08508980370c33f7fe3c18d197926db6\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2691ac0dd889cefc6b83326842eb1f4d\\res\\values-en-rGB\\values-en-rGB.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,32",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,3181",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,3258"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\minsi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\32052cba502bffb594003ab7f0a61562\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\59431b2683425c903b5739eef04c08da\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -69,6 +52,23 @@
                         "startOffsets": "3263",
                         "endColumns": "100",
                         "endOffsets": "3359"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5ac28c5d0fb7e360939d355ff5380899\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,3181",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,3258"
                     }
                 }
             ]
