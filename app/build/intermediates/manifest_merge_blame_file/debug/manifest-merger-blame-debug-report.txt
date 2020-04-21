@@ -6,112 +6,112 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
+8-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="27" />
-9-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml
+9-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_CALENDAR" />
-11-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:6:5-72
-11-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:6:22-69
+11-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:6:5-72
+11-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:6:22-69
 12    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
-12-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:7:5-73
-12-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:7:22-70
+12-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:7:5-73
+12-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:7:22-70
 13    <uses-permission android:name="android.permission.VIBRATE" />
-13-->[com.wdullaer:materialdatetimepicker:2.2.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/AndroidManifest.xml:26:5-66
-13-->[com.wdullaer:materialdatetimepicker:2.2.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/AndroidManifest.xml:26:22-63
+13-->[com.wdullaer:materialdatetimepicker:2.2.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c34deb9cca7a6b520af9f8df8d162db\materialdatetimepicker-2.2.0\AndroidManifest.xml:26:5-66
+13-->[com.wdullaer:materialdatetimepicker:2.2.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c34deb9cca7a6b520af9f8df8d162db\materialdatetimepicker-2.2.0\AndroidManifest.xml:26:22-63
 14
 15    <application
-15-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:10:5-52:19
+15-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:10:5-52:19
 16        android:allowBackup="true"
-16-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:11:9-35
+16-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:11:9-35
 17        android:debuggable="true"
 18        android:extractNativeLibs="false"
 19        android:icon="@mipmap/ic_launcher1"
-19-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:12:9-44
+19-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:12:9-44
 20        android:label="@string/app_name"
-20-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:13:9-41
+20-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:13:9-41
 21        android:testOnly="true"
 22        android:theme="@style/MyMaterialTheme" >
-22-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:14:9-47
+22-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:14:9-47
 23        <activity
-23-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:15:9-25:20
+23-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:15:9-25:20
 24            android:name="com.assignment.diabetesrecords.activity.MainActivity"
-24-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:16:13-50
+24-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:16:13-50
 25            android:label="@string/title_activity_icon_text_tabs"
-25-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:17:13-66
+25-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:17:13-66
 26            android:windowSoftInputMode="adjustPan" >
-26-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:18:13-52
+26-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:18:13-52
 27            <intent-filter>
-27-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:20:13-24:29
+27-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:20:13-24:29
 28                <action android:name="android.intent.action.MAIN" />
-28-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:21:17-69
-28-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:21:25-66
+28-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:21:17-69
+28-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:21:25-66
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:23:17-77
-30-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:23:27-74
+30-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:23:17-77
+30-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:23:27-74
 31            </intent-filter>
 32        </activity>
 33        <activity
-33-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:26:9-29:54
+33-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:26:9-29:54
 34            android:name="com.assignment.diabetesrecords.modules.add_doctor.AddDoctorActivity"
-34-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:27:13-65
+34-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:27:13-65
 35            android:label="@string/title_activity_add_doctor"
-35-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:28:13-62
+35-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:28:13-62
 36            android:theme="@style/MyMaterialTheme" />
-36-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:29:13-51
+36-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:29:13-51
 37        <activity
-37-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:30:9-33:54
+37-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:30:9-33:54
 38            android:name="com.assignment.diabetesrecords.modules.app_appointment.AddAppointmentActivity"
-38-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:31:13-75
+38-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:31:13-75
 39            android:label="@string/title_activity_add_appointment"
-39-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:32:13-67
+39-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:32:13-67
 40            android:theme="@style/MyMaterialTheme" />
-40-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:33:13-51
+40-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:33:13-51
 41        <activity
-41-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:35:9-38:54
+41-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:35:9-38:54
 42            android:name="com.assignment.diabetesrecords.modules.add_reminder.AddReminderActivity"
-42-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:36:13-69
+42-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:36:13-69
 43            android:label="@string/title_activity_add_appointment"
-43-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:37:13-67
+43-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:37:13-67
 44            android:theme="@style/MyMaterialTheme" />
-44-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:38:13-51
+44-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:38:13-51
 45        <activity
-45-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:41:9-44:54
+45-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:41:9-44:54
 46            android:name="com.assignment.diabetesrecords.modules.my_profile.MyProfileActivity"
-46-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:42:13-65
+46-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:42:13-65
 47            android:label="@string/title_activity_add_reminder"
-47-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:43:13-64
+47-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:43:13-64
 48            android:theme="@style/MyMaterialTheme" />
-48-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:44:13-51
+48-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:44:13-51
 49
 50        <receiver
-50-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:9-50:20
+50-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:46:9-50:20
 51            android:name="com.assignment.diabetesrecords.modules.add_reminder.AlarmReceiver"
-51-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:46:19-69
+51-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:46:19-69
 52            android:enabled="true"
-52-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:48:13-35
+52-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:48:13-35
 53            android:exported="true" >
-53-->/Users/tainguyen/Desktop/New Thing/app/src/main/AndroidManifest.xml:47:13-36
+53-->C:\Users\Admin\AndroidApp2020\Medicine-Time-Reminder\app\src\main\AndroidManifest.xml:47:13-36
 54        </receiver>
 55
 56        <provider
-56-->[com.google.firebase:firebase-common:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/916b9a69ed03cc83d459cdb7d80e5078/firebase-common-11.8.0/AndroidManifest.xml:8:9-12:39
+56-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\916b9a69ed03cc83d459cdb7d80e5078\firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
 57            android:name="com.google.firebase.provider.FirebaseInitProvider"
-57-->[com.google.firebase:firebase-common:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/916b9a69ed03cc83d459cdb7d80e5078/firebase-common-11.8.0/AndroidManifest.xml:9:13-77
+57-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\916b9a69ed03cc83d459cdb7d80e5078\firebase-common-11.8.0\AndroidManifest.xml:9:13-77
 58            android:authorities="com.assignment.diabetesrecords.firebaseinitprovider"
-58-->[com.google.firebase:firebase-common:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/916b9a69ed03cc83d459cdb7d80e5078/firebase-common-11.8.0/AndroidManifest.xml:10:13-72
+58-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\916b9a69ed03cc83d459cdb7d80e5078\firebase-common-11.8.0\AndroidManifest.xml:10:13-72
 59            android:exported="false"
-59-->[com.google.firebase:firebase-common:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/916b9a69ed03cc83d459cdb7d80e5078/firebase-common-11.8.0/AndroidManifest.xml:11:13-37
+59-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\916b9a69ed03cc83d459cdb7d80e5078\firebase-common-11.8.0\AndroidManifest.xml:11:13-37
 60            android:initOrder="100" />
-60-->[com.google.firebase:firebase-common:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/916b9a69ed03cc83d459cdb7d80e5078/firebase-common-11.8.0/AndroidManifest.xml:12:13-36
+60-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\916b9a69ed03cc83d459cdb7d80e5078\firebase-common-11.8.0\AndroidManifest.xml:12:13-36
 61
 62        <meta-data
-62-->[com.google.android.gms:play-services-basement:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/d25551a7c1ae3b818a70206a53af61b3/play-services-basement-11.8.0/AndroidManifest.xml:23:9-25:69
+62-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d25551a7c1ae3b818a70206a53af61b3\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
 63            android:name="com.google.android.gms.version"
-63-->[com.google.android.gms:play-services-basement:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/d25551a7c1ae3b818a70206a53af61b3/play-services-basement-11.8.0/AndroidManifest.xml:24:13-58
+63-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d25551a7c1ae3b818a70206a53af61b3\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
 64            android:value="@integer/google_play_services_version" />
-64-->[com.google.android.gms:play-services-basement:11.8.0] /Users/tainguyen/.gradle/caches/transforms-2/files-2.1/d25551a7c1ae3b818a70206a53af61b3/play-services-basement-11.8.0/AndroidManifest.xml:25:13-66
+64-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\d25551a7c1ae3b818a70206a53af61b3\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
 65    </application>
 66
 67</manifest>
