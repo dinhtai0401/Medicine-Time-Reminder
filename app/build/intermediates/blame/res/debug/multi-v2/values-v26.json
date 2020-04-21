@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Admin\\AndroidApp2020\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "/Users/tainguyen/Desktop/New Thing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4a886c807e8edea08ea5abca46aae16c\\appcompat-v7-27.1.1\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-2/files-2.1/4a886c807e8edea08ea5abca46aae16c/appcompat-v7-27.1.1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\8a05ba3346a75a1e1cef8a02778ffb94\\design-27.1.1\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-2/files-2.1/8a05ba3346a75a1e1cef8a02778ffb94/design-27.1.1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

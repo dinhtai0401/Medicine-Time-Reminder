@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Admin\\AndroidApp2020\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "outputFile": "/Users/tainguyen/Desktop/New Thing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\4a886c807e8edea08ea5abca46aae16c\\appcompat-v7-27.1.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-2/files-2.1/4a886c807e8edea08ea5abca46aae16c/appcompat-v7-27.1.1/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Admin\\AndroidApp2020\\Medicine-Time-Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w560dp-land-v13\\values-w560dp-land-v13.xml",
+            "outputFile": "/Users/tainguyen/Desktop/New Thing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w560dp-land-v13/values-w560dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\7c34deb9cca7a6b520af9f8df8d162db\\materialdatetimepicker-2.2.0\\res\\values-w560dp-land\\values-w560dp-land.xml",
+                    "source": "/Users/tainguyen/.gradle/caches/transforms-2/files-2.1/7c34deb9cca7a6b520af9f8df8d162db/materialdatetimepicker-2.2.0/res/values-w560dp-land/values-w560dp-land.xml",
                     "from": {
                         "startLines": "4,5,6",
                         "startColumns": "4,4,4",

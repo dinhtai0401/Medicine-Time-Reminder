@@ -48,9 +48,7 @@
                         android:id="@+id/my_profile_title"
                         style="@style/Slider_Menu_Title"
                         android:layout_toRightOf="@id/my_profile_logo"
-                        android:text="My Profile"
-                        android:textColor="#B63D3D"
-                        android:textStyle="bold" />
+                        android:text="My Profile"/>
                 </RelativeLayout>
 
 
@@ -71,8 +69,7 @@
 
                         style="@style/Slider_Menu_Title"
                         android:layout_toRightOf="@id/logo2"
-                        android:text="Entries"
-                        android:textColor="#8F4343" />
+                        android:text="Entries"/>
                 </RelativeLayout>
 
 
@@ -92,8 +89,7 @@
                     <TextView
                         style="@style/Slider_Menu_Title"
                         android:layout_toRightOf="@id/logo3"
-                        android:text="Graph"
-                        android:textColor="#8A3333" />
+                        android:text="Graph"/>
                 </RelativeLayout>
 
 
@@ -112,8 +108,7 @@
                     <TextView
                         style="@style/Slider_Menu_Title"
                         android:layout_toRightOf="@id/logo4"
-                        android:text="Reminder"
-                        android:textColor="#812222" />
+                        android:text="Reminder"/>
                 </RelativeLayout>
 
 

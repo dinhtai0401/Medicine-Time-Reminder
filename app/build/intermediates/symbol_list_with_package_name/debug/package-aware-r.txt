@@ -1201,6 +1201,7 @@ id tvTabletInfo
 id tvTime
 id tvTitle
 id tvTitle2
+id type
 id uniform
 id up
 id useLogo

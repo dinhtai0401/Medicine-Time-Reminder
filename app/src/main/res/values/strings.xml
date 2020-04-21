@@ -21,7 +21,6 @@
         <item>After Lunch</item>
         <item>Before Dinner</item>
         <item>After Dinner</item>
-        <item>Night Time</item>
     </string-array>
 
     <string name="action_add">Add</string>
@@ -33,8 +32,8 @@
     <string name="subject">Subject</string>
     <string name="content">Content</string>
 
-    <string name="date">Set Date</string>
-    <string name="time">Set Time</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
 
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
@@ -47,21 +46,17 @@
     <string-array name="reminder_frequency_arrays">
         <item>Daily</item>
         <item>Weekly</item>
-        <item>Own Option</item>
         <item>Never</item>
     </string-array>
 
     <string-array name="gender_arrays">
         <item>Male</item>
         <item>Female</item>
-        <item>Do not want to tell </item>
     </string-array>
 
     <string-array name="type_arrays">
         <item>Type 1</item>
         <item>Type 2</item>
-        <item>Type 3</item>
-        <item>Type 4</item>
     </string-array>
     <string name="title_activity_add_doctor">Add Doctor</string>
     <string name="title_activity_add_appointment">Appointment</string>
